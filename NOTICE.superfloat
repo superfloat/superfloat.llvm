@@ -1,0 +1,7 @@
+superfloat.llvm
+
+A modified copy of the LLVM Project, under the Apache License v2.0 with LLVM Exceptions (LICENSE.TXT). LLVM belongs to its
+contributors; nothing here changes that.
+
+The sf16 changes to Clang: Copyright (c) 2025-2026 Superfloat Private Limited, under the same license.
+Trademarks: see TRADEMARKS.md. The license covers code, not the Superfloat names or logos.
